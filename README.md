@@ -80,7 +80,7 @@ You will need to download the images in your data root directory to evaluate our
 
 Employing class-specific parameters: --classwise
 
-Set the sampling ratio: _i.e._ --sampling_ratio 0.1
+Setting the sampling ratio: _i.e._ --sampling_ratio 0.1
 
 Zero-shot transferring: _i.e._ --base_dataset CIFAR10
 
