@@ -64,19 +64,13 @@ You will need to download the images in your data root directory to evaluate our
 
 - Run the following command to reproduce our results
 ### ImageNet-1K / OpenImages30K
-    ```bash
     python main.py --dataset EVALUATION_DATASET --loc_network EVALUATION_NETWORK --data_dir YOUR_DATAROOT
-    ```
 
 ### CUB-200-2011 / Stanford Cars / FGVC-Aircraft / Stanford Dogs
-    ```bash
     python main.py --dataset EVALUATION_DATASET --loc_network EVALUATION_NETWORK --data_dir YOUR_DATAROOT --image_size 480 --crop_size 448 --resnet_downscale 32 
-    ```
 
 ### Segmentation on CUB-200-2011
-    ```bash
     python main.py --dataset CUBSEG --loc_network EVALUATION_NETWORK --data_dir YOUR_DATAROOT --image_size 480 --crop_size 448 --resnet_downscale 32 
-    ```
 
 ### Other Argments
     Employing class-specific parameters: --classwise
