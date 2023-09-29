@@ -52,7 +52,7 @@ You will need to download the images and structure the data directory referring 
 
 You will need to download the images in your data root directory to evaluate our model on each dataset.
 
-- Stanford Cars: http://vision.stanford.edu/aditya86/ImageNetDogs/
+- Stanford Cars: http://ai.stanford.edu/~jkrause/cars/car_dataset.html (Not accessible now)
   
 - FGVC-Aircraft: https://www.robots.ox.ac.uk/~vgg/data/fgvc-aircraft/
   
@@ -76,7 +76,7 @@ You will need to download the images in your data root directory to evaluate our
 
     python main.py --dataset CUBSEG --loc_network EVALUATION_NETWORK --data_dir YOUR_DATAROOT --image_size 480 --crop_size 448 --resnet_downscale 32 
 
-### Other Argments
+### Other Arguments
 
 Employing class-specific parameters: --classwise
 
