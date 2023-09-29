@@ -63,7 +63,7 @@ You will need to download the images in your data root directory to evaluate our
 - Download pre-trained weights: [Google Drive](https://drive.google.com/drive/folders/1B0OolMMlwL6M5fpwEnMHJkqXh_zE8-6u?usp=sharing)
 
 - Run the following command to reproduce our results
-- 
+
 ### ImageNet-1K / OpenImages30K
 
     python main.py --dataset EVALUATION_DATASET --loc_network EVALUATION_NETWORK --data_dir YOUR_DATAROOT
