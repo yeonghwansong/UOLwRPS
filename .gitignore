@@ -1,0 +1,7 @@
+parameter_cache/
+*.tar
+*.pth
+__pycache__/
+*/__pycache__/
+results/
+datasets/metadata/
