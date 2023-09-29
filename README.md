@@ -73,10 +73,10 @@ You will need to download the images in your data root directory to evaluate our
     python main.py --dataset CUBSEG --loc_network EVALUATION_NETWORK --data_dir YOUR_DATAROOT --image_size 480 --crop_size 448 --resnet_downscale 32 
 
 ### Other Argments
-    Employing class-specific parameters: --classwise
+Employing class-specific parameters: --classwise
 
-    Set the sampling ratio: _i.e._ --sampling_ratio 0.1
+Set the sampling ratio: _i.e._ --sampling_ratio 0.1
 
-    Zero-shot transferring: _i.e._ --base_dataset CIFAR10
+Zero-shot transferring: _i.e._ --base_dataset CIFAR10
 
-    Evaluating with classifier: _i.e._ --cls_network ResNet50
+Evaluating with classifier: _i.e._ --cls_network ResNet50
