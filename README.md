@@ -1,5 +1,5 @@
 <div align='center'>
-    <h1>Unsupervised Object Localization with Representer Point Selection</h1>
+    <h2>Unsupervised Object Localization with Representer Point Selection</h2>
 
   <div>
       <a href="https://jeanyson.github.io/lab/members/" target="_blank">Yeonghwan Song</a><sup>*</sup>,
