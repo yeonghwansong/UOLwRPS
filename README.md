@@ -31,10 +31,12 @@ If you find this repository useful for your publications, please consider citing
 
 ```angular2html
 @InProceedings{Song_2023_ICCV,
-    author    = {Yeonghwan Song, Seokwoo Jang, Dina Katabi, Jeany Son},
+    author    = {Song, Yeonghwan and Jang, Seokwoo and Katabi, Dina and Son, Jeany},
     title     = {Unsupervised Object Localization with Representer Point Selection},
-    booktitle = {ICCV},
+    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+    month     = {October},
     year      = {2023},
+    pages     = {6534-6544}
 }
 ```
 
